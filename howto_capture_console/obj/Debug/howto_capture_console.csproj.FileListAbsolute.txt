@@ -1,0 +1,9 @@
+C:\Users\Laptop-Adry\Desktop\Untitled Folder\howto_capture_console\bin\Debug\howto_capture_console.exe
+C:\Users\Laptop-Adry\Desktop\Untitled Folder\howto_capture_console\bin\Debug\howto_capture_console.pdb
+C:\Users\Laptop-Adry\Desktop\Untitled Folder\howto_capture_console\obj\Debug\howto_capture_console.csprojResolveAssemblyReference.cache
+C:\Users\Laptop-Adry\Desktop\Untitled Folder\howto_capture_console\obj\Debug\howto_capture_console.Form1.resources
+C:\Users\Laptop-Adry\Desktop\Untitled Folder\howto_capture_console\obj\Debug\howto_capture_console.Properties.Resources.resources
+C:\Users\Laptop-Adry\Desktop\Untitled Folder\howto_capture_console\obj\Debug\howto_capture_console.csproj.GenerateResource.Cache
+C:\Users\Laptop-Adry\Desktop\Untitled Folder\howto_capture_console\obj\Debug\howto_capture_console.csproj.CoreCompileInputs.cache
+C:\Users\Laptop-Adry\Desktop\Untitled Folder\howto_capture_console\obj\Debug\howto_capture_console.exe
+C:\Users\Laptop-Adry\Desktop\Untitled Folder\howto_capture_console\obj\Debug\howto_capture_console.pdb

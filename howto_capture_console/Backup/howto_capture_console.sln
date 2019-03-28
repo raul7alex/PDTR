@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "howto_capture_console", "howto_capture_console.csproj", "{EBFC61E5-3B40-4E71-8AC4-C59F5AF1B5CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBFC61E5-3B40-4E71-8AC4-C59F5AF1B5CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBFC61E5-3B40-4E71-8AC4-C59F5AF1B5CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBFC61E5-3B40-4E71-8AC4-C59F5AF1B5CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBFC61E5-3B40-4E71-8AC4-C59F5AF1B5CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
